@@ -1,10 +1,13 @@
 - 👋 Hi, I’m Niraj Phutane.
-- 👀 I’m interested in Mobile Application & Web Development by using Flutter Framwork.
-- 🌱 I’m currently learning Go Programming Language.
+- 👀 I’m interested in Mobile application development.
+- 👨🏻‍💻 My experience is in Native Android and Flutter.
 - 📫 How to reach me https://www.linkedin.com/in/nirajphutane/
 
 
 - 🧑‍💻 Projects
+
+## Design Patterns
+https://github.com/nirajphutane/Design-Patterns/tree/main
 
 ## WebTools
 ![Screenshot 2022-08-08 at 1 36 14 PM](https://user-images.githubusercontent.com/25427227/183380524-af9d9f0b-1c20-4343-9af2-3958830e17cb.png)
@@ -40,7 +43,7 @@ Made in Flutter:
 https://user-images.githubusercontent.com/25427227/149513178-94cd1eba-dce0-494d-9cb4-776d6987d874.mp4
 
 ## Line_Graph_Demo
-Implement a live running graph that will show a line chart (using random data) updating every 200 milliseconds. and this has to be done using flutter for android.
+Implement a live running graph showing a line chart (using random data) updating every 200 milliseconds. and this has to be done using Flutter for android.
 
 https://user-images.githubusercontent.com/25427227/156326059-f218a479-d809-4b8e-9fd6-481871f20f64.mp4
 
