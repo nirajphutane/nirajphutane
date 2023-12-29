@@ -6,8 +6,11 @@
 
 - 🧑‍💻 Projects
 
+## SOLID-Principles
+https://github.com/nirajphutane/SOLID-Principles
+
 ## Design Patterns
-https://github.com/nirajphutane/Design-Patterns/tree/main
+https://github.com/nirajphutane/Design-Patterns
 
 ## WebTools
 ![Screenshot 2022-08-08 at 1 36 14 PM](https://user-images.githubusercontent.com/25427227/183380524-af9d9f0b-1c20-4343-9af2-3958830e17cb.png)
